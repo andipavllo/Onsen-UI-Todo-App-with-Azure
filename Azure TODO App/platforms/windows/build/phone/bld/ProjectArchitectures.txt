@@ -1,0 +1,1 @@
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\CordovaApp.Phone.jsproj;neutral

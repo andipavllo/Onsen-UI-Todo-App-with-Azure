@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+    <Identity Name="io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223" Publisher="CN=$username$" Version="1.0.0.0" />
+    <Properties>
+        <DisplayName>Azure_TODO_App</DisplayName>
+        <PublisherDisplayName>Onsen UI Team</PublisherDisplayName>
+        <Logo>images\storelogo.png</Logo>
+    </Properties>
+    <Prerequisites>
+        <OSMinVersion>6.2.1</OSMinVersion>
+        <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+    </Prerequisites>
+    <Resources>
+        <Resource Language="x-generate" />
+    </Resources>
+    <Applications>
+        <Application Id="io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223" StartPage="www/index.html">
+            <VisualElements BackgroundColor="#464646" Description="Azure_TODO_App project to create fancy user interfaces for hybrid mobile applications. It uses uses Apache Cordova to help you build an app that targets multiple mobile platforms: Android, iOS, Windows, and Windows Phone." DisplayName="Azure_TODO_App" ForegroundText="light" Logo="images\Square150x150Logo.png" SmallLogo="images\Square30x30Logo.png">
+                <DefaultTile ShowName="allLogos" WideLogo="images\Wide310x150Logo.png" />
+                <SplashScreen Image="images\splashscreen.png" />
+            </VisualElements>
+        </Application>
+    </Applications>
+    <Capabilities>
+        <Capability Name="internetClient" />
+    </Capabilities>
+</Package>

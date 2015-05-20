@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="config.xml" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/config.xml">
+				<Candidate type="Path">
+					<Value>config.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="SplashScreen.png" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/images/SplashScreen.png"/>
+				<NamedResource name="SplashScreenPhone.png" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/images/SplashScreenPhone.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\SplashScreenPhone.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/images/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square150x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square30x30Logo.png" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/images/Square30x30Logo.png"/>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/images/Square310x310Logo.png"/>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/images/Square44x44Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square70x70Logo.png" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/images/Square70x70Logo.png"/>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/images/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/images/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/images/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="www">
+				<NamedResource name="cordova.js" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/cordova.js">
+					<Candidate type="Path">
+						<Value>www\cordova.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="cordova_plugins.js" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/cordova_plugins.js">
+					<Candidate type="Path">
+						<Value>www\cordova_plugins.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="index.html" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/index.html">
+					<Candidate type="Path">
+						<Value>www\index.html</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="js">
+					<NamedResource name="app.js" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/js/app.js">
+						<Candidate type="Path">
+							<Value>www\js\app.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="lib">
+					<ResourceMapSubtree name="angular">
+						<NamedResource name="angular-csp.css" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/angular/angular-csp.css">
+							<Candidate type="Path">
+								<Value>www\lib\angular\angular-csp.css</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular.js" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/angular/angular.js">
+							<Candidate type="Path">
+								<Value>www\lib\angular\angular.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular.min.js" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/angular/angular.min.js">
+							<Candidate type="Path">
+								<Value>www\lib\angular\angular.min.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular.min.js.gzip" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/angular/angular.min.js.gzip">
+							<Candidate type="Path">
+								<Value>www\lib\angular\angular.min.js.gzip</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular.min.js.map" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/angular/angular.min.js.map">
+							<Candidate type="Path">
+								<Value>www\lib\angular\angular.min.js.map</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="onsen">
+						<ResourceMapSubtree name="css">
+							<NamedResource name="onsen-css-components-blue-basic-theme.css" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/onsen/css/onsen-css-components-blue-basic-theme.css">
+								<Candidate type="Path">
+									<Value>www\lib\onsen\css\onsen-css-components-blue-basic-theme.css</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="onsen-css-components-blue-theme.css" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/onsen/css/onsen-css-components-blue-theme.css">
+								<Candidate type="Path">
+									<Value>www\lib\onsen\css\onsen-css-components-blue-theme.css</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="onsen-css-components-dark-theme.css" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/onsen/css/onsen-css-components-dark-theme.css">
+								<Candidate type="Path">
+									<Value>www\lib\onsen\css\onsen-css-components-dark-theme.css</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="onsen-css-components-default.css" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/onsen/css/onsen-css-components-default.css">
+								<Candidate type="Path">
+									<Value>www\lib\onsen\css\onsen-css-components-default.css</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="onsen-css-components-purple-theme.css" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/onsen/css/onsen-css-components-purple-theme.css">
+								<Candidate type="Path">
+									<Value>www\lib\onsen\css\onsen-css-components-purple-theme.css</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="onsen-css-components-sunshine-theme.css" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/onsen/css/onsen-css-components-sunshine-theme.css">
+								<Candidate type="Path">
+									<Value>www\lib\onsen\css\onsen-css-components-sunshine-theme.css</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="onsen-css-components.css" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/onsen/css/onsen-css-components.css">
+								<Candidate type="Path">
+									<Value>www\lib\onsen\css\onsen-css-components.css</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="onsenui.css" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/onsen/css/onsenui.css">
+								<Candidate type="Path">
+									<Value>www\lib\onsen\css\onsenui.css</Value>
+								</Candidate>
+							</NamedResource>
+							<ResourceMapSubtree name="font_awesome">
+								<ResourceMapSubtree name="css">
+									<NamedResource name="font-awesome.css" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/onsen/css/font_awesome/css/font-awesome.css">
+										<Candidate type="Path">
+											<Value>www\lib\onsen\css\font_awesome\css\font-awesome.css</Value>
+										</Candidate>
+									</NamedResource>
+									<NamedResource name="font-awesome.min.css" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/onsen/css/font_awesome/css/font-awesome.min.css">
+										<Candidate type="Path">
+											<Value>www\lib\onsen\css\font_awesome\css\font-awesome.min.css</Value>
+										</Candidate>
+									</NamedResource>
+								</ResourceMapSubtree>
+								<ResourceMapSubtree name="fonts">
+									<NamedResource name="fontawesome-webfont.eot" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/onsen/css/font_awesome/fonts/fontawesome-webfont.eot">
+										<Candidate type="Path">
+											<Value>www\lib\onsen\css\font_awesome\fonts\fontawesome-webfont.eot</Value>
+										</Candidate>
+									</NamedResource>
+									<NamedResource name="fontawesome-webfont.svg" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/onsen/css/font_awesome/fonts/fontawesome-webfont.svg">
+										<Candidate type="Path">
+											<Value>www\lib\onsen\css\font_awesome\fonts\fontawesome-webfont.svg</Value>
+										</Candidate>
+									</NamedResource>
+									<NamedResource name="fontawesome-webfont.ttf" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/onsen/css/font_awesome/fonts/fontawesome-webfont.ttf">
+										<Candidate type="Path">
+											<Value>www\lib\onsen\css\font_awesome\fonts\fontawesome-webfont.ttf</Value>
+										</Candidate>
+									</NamedResource>
+									<NamedResource name="fontawesome-webfont.woff" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/onsen/css/font_awesome/fonts/fontawesome-webfont.woff">
+										<Candidate type="Path">
+											<Value>www\lib\onsen\css\font_awesome\fonts\fontawesome-webfont.woff</Value>
+										</Candidate>
+									</NamedResource>
+									<NamedResource name="FontAwesome.otf" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/onsen/css/font_awesome/fonts/FontAwesome.otf">
+										<Candidate type="Path">
+											<Value>www\lib\onsen\css\font_awesome\fonts\FontAwesome.otf</Value>
+										</Candidate>
+									</NamedResource>
+								</ResourceMapSubtree>
+							</ResourceMapSubtree>
+							<ResourceMapSubtree name="ionicons">
+								<ResourceMapSubtree name="css">
+									<NamedResource name="ionicons.css" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/onsen/css/ionicons/css/ionicons.css">
+										<Candidate type="Path">
+											<Value>www\lib\onsen\css\ionicons\css\ionicons.css</Value>
+										</Candidate>
+									</NamedResource>
+									<NamedResource name="ionicons.min.css" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/onsen/css/ionicons/css/ionicons.min.css">
+										<Candidate type="Path">
+											<Value>www\lib\onsen\css\ionicons\css\ionicons.min.css</Value>
+										</Candidate>
+									</NamedResource>
+								</ResourceMapSubtree>
+								<ResourceMapSubtree name="fonts">
+									<NamedResource name="ionicons.eot" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/onsen/css/ionicons/fonts/ionicons.eot">
+										<Candidate type="Path">
+											<Value>www\lib\onsen\css\ionicons\fonts\ionicons.eot</Value>
+										</Candidate>
+									</NamedResource>
+									<NamedResource name="ionicons.svg" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/onsen/css/ionicons/fonts/ionicons.svg">
+										<Candidate type="Path">
+											<Value>www\lib\onsen\css\ionicons\fonts\ionicons.svg</Value>
+										</Candidate>
+									</NamedResource>
+									<NamedResource name="ionicons.ttf" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/onsen/css/ionicons/fonts/ionicons.ttf">
+										<Candidate type="Path">
+											<Value>www\lib\onsen\css\ionicons\fonts\ionicons.ttf</Value>
+										</Candidate>
+									</NamedResource>
+									<NamedResource name="ionicons.woff" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/onsen/css/ionicons/fonts/ionicons.woff">
+										<Candidate type="Path">
+											<Value>www\lib\onsen\css\ionicons\fonts\ionicons.woff</Value>
+										</Candidate>
+									</NamedResource>
+								</ResourceMapSubtree>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="js">
+							<NamedResource name="onsenui.js" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/onsen/js/onsenui.js">
+								<Candidate type="Path">
+									<Value>www\lib\onsen\js\onsenui.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="onsenui.min.js" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/lib/onsen/js/onsenui.min.js">
+								<Candidate type="Path">
+									<Value>www\lib\onsen\js\onsenui.min.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="plugins">
+					<ResourceMapSubtree name="com.microsoft.azure-mobile-services">
+						<ResourceMapSubtree name="www">
+							<NamedResource name="MobileServices.Web.min.js" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/plugins/com.microsoft.azure-mobile-services/www/MobileServices.Web.min.js">
+								<Candidate type="Path">
+									<Value>www\plugins\com.microsoft.azure-mobile-services\www\MobileServices.Web.min.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="org.apache.cordova.inappbrowser">
+						<ResourceMapSubtree name="src">
+							<ResourceMapSubtree name="windows">
+								<NamedResource name="InAppBrowserProxy.js" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/plugins/org.apache.cordova.inappbrowser/src/windows/InAppBrowserProxy.js">
+									<Candidate type="Path">
+										<Value>www\plugins\org.apache.cordova.inappbrowser\src\windows\InAppBrowserProxy.js</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="www">
+							<NamedResource name="inappbrowser.js" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/plugins/org.apache.cordova.inappbrowser/www/inappbrowser.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.inappbrowser\www\inappbrowser.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="scripts">
+					<NamedResource name="index.js" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/scripts/index.js">
+						<Candidate type="Path">
+							<Value>www\scripts\index.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="platformOverrides.js" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/scripts/platformOverrides.js">
+						<Candidate type="Path">
+							<Value>www\scripts\platformOverrides.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="winstore-jscompat.js" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/scripts/winstore-jscompat.js">
+						<Candidate type="Path">
+							<Value>www\scripts\winstore-jscompat.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="services">
+					<ResourceMapSubtree name="mobileServices">
+						<ResourceMapSubtree name="settings">
+							<NamedResource name="todoOnsen.js" uri="ms-resource://io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223/Files/www/services/mobileServices/settings/todoOnsen.js">
+								<Candidate type="Path">
+									<Value>www\services\mobileServices\settings\todoOnsen.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

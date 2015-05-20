@@ -1,0 +1,14 @@
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\wp8\Bin\Debug\ApplicationIcon.png
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\wp8\Bin\Debug\Background.png
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\wp8\Bin\Debug\io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\wp8\Bin\Debug\io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\wp8\Bin\Debug\AppManifest.xaml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\wp8\obj\Debug\App.g.cs
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\wp8\obj\Debug\MainPage.g.cs
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\wp8\obj\Debug\io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223.g.resources
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\wp8\obj\Debug\io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\wp8\obj\Debug\io.onsen.myapp1653091f9f5042e1ac85e88dd5caf223.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\wp8\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,17 @@
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\windows\debug\anycpu\resources.pri
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\windows\debug\anycpu\AppxManifest.xml
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\windows\debug\anycpu\CordovaApp.Windows.build.appxrecipe
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\windows\bld\priconfig.xml
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\windows\bld\priconfig.xml.intermediate
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\windows\bld\layout.resfiles
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\windows\bld\layout.resfiles.intermediate
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\windows\bld\resources.resfiles
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\windows\bld\resources.resfiles.intermediate
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\windows\bld\pri.resfiles
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\windows\bld\pri.resfiles.intermediate
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\windows\bld\qualifiers.txt
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\windows\bld\qualifiers.txt.intermediate
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\windows\bld\MultipleQualifiersPerDimensionFound.txt
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\windows\bld\ProjectArchitectures.txt
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\windows\bld\package.map.txt
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\windows\bld\_pkginfo.txt

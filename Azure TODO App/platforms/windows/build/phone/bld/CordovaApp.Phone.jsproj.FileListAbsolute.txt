@@ -1,0 +1,202 @@
+c:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\debug\anycpu\resources.pri
+c:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\debug\anycpu\AppxManifest.xml
+c:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\debug\anycpu\CordovaApp.Phone.build.appxrecipe
+c:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\priconfig.xml
+c:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\priconfig.xml.intermediate
+c:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\layout.resfiles
+c:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\layout.resfiles.intermediate
+c:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\resources.resfiles
+c:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\resources.resfiles.intermediate
+c:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\pri.resfiles
+c:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\pri.resfiles.intermediate
+c:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\qualifiers.txt
+c:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\qualifiers.txt.intermediate
+c:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\MultipleQualifiersPerDimensionFound.txt
+c:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\ProjectArchitectures.txt
+c:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\_pkginfo.txt
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\debug\anycpu\ForBundle\AppxManifest.xml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\debug\anycpu\CordovaApp.Phone_1.0.0.0_anycpu_debug.appx
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\SplashScreen.scale-100.png
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\SplashScreenPhone.scale-240.png
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\Square150x150Logo.scale-100.png
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\Square150x150Logo.scale-240.png
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\Square30x30Logo.scale-100.png
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\Square310x310Logo.scale-100.png
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\Square44x44Logo.scale-240.png
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\Square70x70Logo.scale-100.png
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\Square71x71Logo.scale-240.png
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\StoreLogo.scale-100.png
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\StoreLogo.scale-240.png
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\Wide310x150Logo.scale-100.png
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\Wide310x150Logo.scale-240.png
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\cordova.js
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\cordova_plugins.js
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\js\app.js
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\angular\angular.js
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\angular\angular.min.js
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\js\onsenui.js
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\js\onsenui.min.js
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\plugins\com.microsoft.azure-mobile-services\www\MobileServices.Web.min.js
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\plugins\org.apache.cordova.inappbrowser\src\windows\InAppBrowserProxy.js
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\plugins\org.apache.cordova.inappbrowser\www\inappbrowser.js
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\scripts\index.js
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\scripts\platformOverrides.js
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\scripts\winstore-jscompat.js
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\services\mobileServices\settings\todoOnsen.js
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\index.html
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\angular\angular-csp.css
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\font_awesome\css\font-awesome.css
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\font_awesome\css\font-awesome.min.css
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\ionicons\css\ionicons.css
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\ionicons\css\ionicons.min.css
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\onsen-css-components-blue-basic-theme.css
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\onsen-css-components-blue-theme.css
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\onsen-css-components-dark-theme.css
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\onsen-css-components-default.css
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\onsen-css-components-purple-theme.css
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\onsen-css-components-sunshine-theme.css
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\onsen-css-components.css
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\onsenui.css
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\angular\angular.min.js.gzip
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\angular\angular.min.js.map
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\font_awesome\fonts\fontawesome-webfont.eot
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\ionicons\fonts\ionicons.eot
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\font_awesome\fonts\fontawesome-webfont.svg
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\ionicons\fonts\ionicons.svg
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\font_awesome\fonts\fontawesome-webfont.ttf
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\ionicons\fonts\ionicons.ttf
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\font_awesome\fonts\fontawesome-webfont.woff
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\ionicons\fonts\ionicons.woff
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\font_awesome\fonts\FontAwesome.otf
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\config.xml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\split.priconfig.xml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\split.priconfig.xml.intermediate
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\split.generatedFiles.txt
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\split.qualifiers.txt
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\split.qualifiers.txt.intermediate
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\split.pri.xml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\filemap.priconfig.xml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\filemap.priconfig.xml.intermediate
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\filemap.generatedFiles.txt
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\main.map.txt
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\debug\anycpu\CordovaApp.Phone_1.0.0.0_scale-100.appx
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\split.pri
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\split.map.txt
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\split.scale-100.pri
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\split.scale-100.map.txt
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\filemap.pri
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\filemap.map.txt
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\filemap.scale-100.pri
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\filemap.scale-100.map.txt
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\index - Copy.html
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\debug\anycpu\resources.pri
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\debug\anycpu\AppxManifest.xml
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\debug\anycpu\CordovaApp.Phone.build.appxrecipe
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\debug\anycpu\ForBundle\AppxManifest.xml
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\debug\anycpu\CordovaApp.Phone_1.0.0.0_anycpu_debug.appx
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\debug\anycpu\CordovaApp.Phone_1.0.0.0_scale-100.appx
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\priconfig.xml
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\priconfig.xml.intermediate
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\layout.resfiles
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\layout.resfiles.intermediate
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\resources.resfiles
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\resources.resfiles.intermediate
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\pri.resfiles
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\pri.resfiles.intermediate
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\qualifiers.txt
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\qualifiers.txt.intermediate
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\MultipleQualifiersPerDimensionFound.txt
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\ProjectArchitectures.txt
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\SplashScreen.scale-100.png
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\SplashScreenPhone.scale-240.png
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\Square150x150Logo.scale-100.png
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\Square150x150Logo.scale-240.png
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\Square30x30Logo.scale-100.png
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\Square310x310Logo.scale-100.png
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\Square44x44Logo.scale-240.png
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\Square70x70Logo.scale-100.png
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\Square71x71Logo.scale-240.png
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\StoreLogo.scale-100.png
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\StoreLogo.scale-240.png
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\Wide310x150Logo.scale-100.png
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\images\Wide310x150Logo.scale-240.png
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\cordova.js
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\cordova_plugins.js
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\js\app.js
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\angular\angular.js
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\angular\angular.min.js
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\js\onsenui.js
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\js\onsenui.min.js
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\plugins\com.microsoft.azure-mobile-services\www\MobileServices.Web.min.js
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\plugins\org.apache.cordova.inappbrowser\src\windows\InAppBrowserProxy.js
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\plugins\org.apache.cordova.inappbrowser\www\inappbrowser.js
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\scripts\index.js
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\scripts\platformOverrides.js
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\scripts\winstore-jscompat.js
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\services\mobileServices\settings\todoOnsen.js
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\index - Copy.html
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\index.html
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\js\.DS_Store
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\js\._.DS_Store
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\scripts\.DS_Store
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\scripts\._.DS_Store
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\services\.DS_Store
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\services\._.DS_Store
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\services\mobileServices\.DS_Store
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\services\mobileServices\._.DS_Store
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\services\mobileServices\settings\.DS_Store
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\services\mobileServices\settings\._.DS_Store
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\angular\angular-csp.css
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\font_awesome\css\font-awesome.css
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\font_awesome\css\font-awesome.min.css
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\ionicons\css\ionicons.css
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\ionicons\css\ionicons.min.css
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\onsen-css-components-blue-basic-theme.css
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\onsen-css-components-blue-theme.css
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\onsen-css-components-dark-theme.css
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\onsen-css-components-default.css
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\onsen-css-components-purple-theme.css
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\onsen-css-components-sunshine-theme.css
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\onsen-css-components.css
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\onsenui.css
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\angular\angular.min.js.gzip
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\angular\angular.min.js.map
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\font_awesome\fonts\fontawesome-webfont.eot
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\ionicons\fonts\ionicons.eot
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\font_awesome\fonts\fontawesome-webfont.svg
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\ionicons\fonts\ionicons.svg
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\font_awesome\fonts\fontawesome-webfont.ttf
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\ionicons\fonts\ionicons.ttf
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\font_awesome\fonts\fontawesome-webfont.woff
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\ionicons\fonts\ionicons.woff
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\lib\onsen\css\font_awesome\fonts\FontAwesome.otf
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\config.xml
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\split.priconfig.xml
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\split.priconfig.xml.intermediate
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\split.pri
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\split.map.txt
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\split.scale-100.pri
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\split.scale-100.map.txt
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\split.generatedFiles.txt
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\split.qualifiers.txt
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\split.qualifiers.txt.intermediate
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\split.pri.xml
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\filemap.priconfig.xml
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\filemap.priconfig.xml.intermediate
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\filemap.pri
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\filemap.map.txt
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\filemap.scale-100.pri
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\filemap.scale-100.map.txt
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\filemap.generatedFiles.txt
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\main.map.txt
+d:\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\_pkginfo.txt
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\js\.DS_Store
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\js\._.DS_Store
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\scripts\.DS_Store
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\scripts\._.DS_Store
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\services\.DS_Store
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\services\._.DS_Store
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\services\mobileServices\.DS_Store
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\services\mobileServices\._.DS_Store
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\services\mobileServices\settings\.DS_Store
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Azure TODO App\Azure TODO App\platforms\windows\build\phone\bld\PackageLayout\www\services\mobileServices\settings\._.DS_Store

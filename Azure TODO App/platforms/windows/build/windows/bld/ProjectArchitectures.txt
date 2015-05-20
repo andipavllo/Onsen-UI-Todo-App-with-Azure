@@ -1,0 +1,1 @@
+d:\Azure TODO App\Azure TODO App\platforms\windows\CordovaApp.Windows.jsproj;neutral

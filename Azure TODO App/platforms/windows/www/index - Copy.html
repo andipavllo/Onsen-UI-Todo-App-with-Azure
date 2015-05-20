@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<!-- CSP support mode (required for Windows Universal apps): https://docs.angularjs.org/api/ng/directive/ngCsp -->
+<html lang="en" ng-app="app" ng-csp>
+<head>
+    <meta charset="utf-8" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes" />
+
+    <script src="lib/angular/angular.js"></script>
+    <script src="lib/onsen/js/onsenui.js"></script>
+    <!-- CSS dependencies -->
+    <link rel="stylesheet" href="lib/onsen/css/onsenui.css" />
+    <link rel="stylesheet" href="lib/onsen/css/onsen-css-components-blue-basic-theme.css" />
+
+
+    <!-- --------------- App init --------------- -->
+    <script src="js/app.js"></script>
+    <title>Onsen UI Azure App</title>
+
+
+</head>
+<body>
+
+    <ons-tabbar var="tabbar">
+        <ons-tab active="true" page="list.html">
+            <div class="tab">
+                <ons-icon icon="ion-home" class="tab-icon"></ons-icon>
+                <div class="tab-label">All</div>
+            </div>
+        </ons-tab>
+
+        <ons-tab page="active.html">
+            <div class="tab">
+                <ons-icon icon="ion-gear-a" class="tab-icon"></ons-icon>
+                <div class="tab-label">Active</div>
+            </div>
+        </ons-tab>
+    </ons-tabbar>
+
+    <ons-template id="list.html">
+        <ons-navigator var="myNavigator">
+            <ons-page>
+                <ons-toolbar>
+                    <div class="center">Memo main page</div>
+                </ons-toolbar>
+            </ons-page>
+        </ons-navigator>
+    </ons-template>
+
+    <ons-template id="active.html">
+        <ons-page>
+            <ons-toolbar>
+                <div class="center">Active memo page</div>
+            </ons-toolbar>
+
+        </ons-page>
+    </ons-template>
+
+</body>
+</html>

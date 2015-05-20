@@ -1,0 +1,154 @@
+﻿<!DOCTYPE html>
+<!-- CSP support mode (required for Windows Universal apps): https://docs.angularjs.org/api/ng/directive/ngCsp -->
+<html lang="en" ng-app="app" ng-csp>
+<head>
+    <meta charset="utf-8" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <!-- todoOnsen references -->
+    <script src="http://ajax.aspnetcdn.com/ajax/mobileservices/MobileServices.Web-1.2.7.min.js"></script>
+    <script src="services/mobileServices/settings/todoOnsen.js"></script>
+    <script src="scripts/index.js"></script>
+    <!-- JS dependencies (order matters!) -->
+    <script src="scripts/platformOverrides.js"></script>
+    <script src="lib/angular/angular.js"></script>
+    <script src="lib/onsen/js/onsenui.js"></script>
+    <!-- CSS dependencies -->
+    <link rel="stylesheet" href="lib/onsen/css/onsenui.css" />
+    <link rel="stylesheet" href="lib/onsen/css/onsen-css-components-blue-basic-theme.css" />
+    <!-- CSP support mode (required for Windows Universal apps) -->
+    <link rel="stylesheet" href="lib/angular/angular-csp.css" />
+
+    <!-- --------------- App init --------------- -->
+    <script src="js/app.js"></script>
+    <title>Onsen UI Azure App</title>
+    <style>
+        .completed{
+            color: #808080;
+            text-decoration: line-through;
+        }
+        .destroy {
+     	    position: absolute;
+     	    top: 0;
+     	    right: 10px;
+     	    bottom: 0;
+     	    margin: auto 0;
+     	    font-size: 30px;
+     	    color: #cc9a9a;
+     	    border-color: transparent;
+            background-color: transparent;
+        }
+    </style>
+
+</head>
+<body ng-controller="MyController"  data-ng-init="loadMemo()">
+    <!-- Cordova reference -->
+    <script src="cordova.js"></script>
+    <!-- -->
+
+    <ons-tabbar var="tabbar">
+        <ons-tab active="true" page="list.html">
+            <div class="tab">
+                <div class="tab-label">All</div>
+            </div>
+        </ons-tab>
+
+        <ons-tab page="active.html">
+            <div class="tab">
+                <div class="tab-label">Active</div>
+            </div>
+        </ons-tab>
+
+        <ons-tab page="completed.html">
+            <div class="tab">
+                <div class="tab-label">Completed</div>
+            </div>
+        </ons-tab>
+    </ons-tabbar>
+
+    <ons-template id="list.html">
+        <ons-navigator var="myNavigator">
+            <ons-page>
+                <ons-toolbar fixed-style>
+                    <div class="center">Memo main page</div>
+                    <div class="right" ng-click="myNavigator.pushPage('addMemo.html')" style="position: absolute; top: 7px; bottom: 7px; right: 10px; color: #4383CD">
+                        <ons-icon icon="ion-android-add-circle" size="30px"></ons-icon> <b>Add</b>
+                    </div>
+                </ons-toolbar>
+                <div style="text-align: center">
+                    <ons-list>
+                        <ons-list-header>Personal memos</ons-list-header>
+                        <ons-list-item ng-repeat="stuff in items track by $index" ng-class="{completed: stuff.completed}" ng-include="'template.html'">
+                        </ons-list-item>
+                    </ons-list>
+                </div>
+            </ons-page>
+        </ons-navigator>
+    </ons-template>
+
+    <ons-template id="template.html">
+            <label class="checkbox">
+                <input type="checkbox" ng-model="stuff.completed" ng-click="toggleCompleted($index)">
+                <div class="checkbox__checkmark"></div>
+                <span class="ons-checkbox-inner"></span>
+            </label>
+            <label>
+                <b>{{stuff.title}}</b>
+                {{stuff.content}}
+            </label>
+            <ons-btn class="destroy" ng-click="deleteMemo($index)">✕</ons-btn>
+    </ons-template>
+
+    <ons-template id="active.html">
+        <ons-page>
+            <ons-toolbar>
+                <div class="center">Active memo page</div>
+            </ons-toolbar>
+            <div style="text-align: center">
+                <ons-list>
+                    <ons-list-header>Personal active memos</ons-list-header>
+                    <ons-list-item ng-repeat="stuff in items track by $index" ng-hide="stuff.completed" ng-include="'template.html'">
+                    </ons-list-item>
+                </ons-list>
+            </div>
+        </ons-page>
+    </ons-template>
+
+    <ons-template id="completed.html">
+        <ons-page>
+            <ons-toolbar>
+                <div class="center">Active memo page</div>
+            </ons-toolbar>
+            <div style="text-align: center">
+                <ons-list>
+                    <ons-list-header>Personal completed memos</ons-list-header>
+                    <ons-list-item ng-repeat="stuff in items track by $index" ng-show="stuff.completed" ng-include="'template.html'">
+                    </ons-list-item>
+                </ons-list>
+            </div>
+        </ons-page>
+    </ons-template>
+
+    <ons-template id="addMemo.html">
+        <ons-page>
+            <ons-toolbar>
+                <div class="left"><ons-back-button>Back</ons-back-button></div>
+                <div class="center">New Memo</div>
+            </ons-toolbar>
+            <div style="text-align: center">
+                <section style="padding: 8px">
+                    <input id="noteTitle" maxlength="10" placeholder="Insert title (max 10 char.)" class="textarea" ng-model="data.itemTitle" style="width: 100%;">
+                </section>
+                <section style="padding: 0 8px 8px">
+                    <textarea id="noteContent" maxlength="20" placeholder="Insert description (max 20 char.) " class="textarea" ng-model="data.itemContent" style="width: 100%; height: 100px;"></textarea>
+                </section>
+
+                <section style="padding: 0 8px 8px">
+                    <ons-button modifier="large" ng-click="addMemo()">Save</ons-button>
+                </section>
+            </div>
+        </ons-page>
+    </ons-template>
+
+</body>
+</html>
