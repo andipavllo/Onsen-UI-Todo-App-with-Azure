@@ -48,13 +48,18 @@ angular.module('app', ['onsen'])
             id: $scope.items[index].id,
             completed: $scope.items[index].completed
         }).done(function (result) {
-            $scope.$apply;
+            return;
         }, function (err) {
+            $scope.items[index].completed = !$scope.items[index].completed;
+            $scope.$apply;
             console.log("Error: " + err);
         });
     };
 
     $scope.addMemo = function () {
+        //Disable the 'save' button
+        saveBtn.setDisabled(true);
+
         //Create a memo object
         var memo = {
             title: $scope.data.itemTitle,
