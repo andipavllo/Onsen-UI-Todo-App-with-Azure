@@ -81,6 +81,9 @@ angular.module('app', ['onsen'])
             $scope.myNavigator.popPage();
 
         }, function (err) {
+            //Enable the 'save' button
+            saveBtn.setDisabled(false);
+
             alert("Error: " + err);
         })
     };
