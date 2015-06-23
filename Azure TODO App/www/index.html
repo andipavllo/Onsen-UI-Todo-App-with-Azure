@@ -131,10 +131,10 @@
             </ons-toolbar>
             <form style="text-align: center" name="myForm">
                 <section style="padding: 8px">
-                    <input id="noteTitle" required maxlength="10" placeholder="Insert title (required - max 10 char.)" class="textarea" ng-model="data.itemTitle" style="width: 100%;">
+                    <input id="noteTitle" required maxlength="30" placeholder="Insert title (required - max 30 char.)" class="textarea" ng-model="data.itemTitle" style="width: 100%;">
                 </section>
                 <section style="padding: 0 8px 8px">
-                    <textarea id="noteContent" required maxlength="20" placeholder="Insert description (required - max 20 char.) " class="textarea" ng-model="data.itemContent" style="width: 100%; height: 100px;"></textarea>
+                    <textarea id="noteContent" maxlength="100" placeholder="Insert description (max 100 char.) " class="textarea" ng-model="data.itemContent" style="width: 100%; height: 100px;"></textarea>
                 </section>
 
                 <section style="padding: 0 8px 8px">
